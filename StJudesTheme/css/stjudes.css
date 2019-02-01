@@ -1,0 +1,81 @@
+.book,
+img.book{
+  display: block;
+  width: 100%;
+  margin: auto;
+  border-radius: 8px;
+  opacity: 0.5;
+}
+
+
+
+img.header-image{
+  width: 10%;
+  display: block;
+  margin: auto;
+}
+
+h1.test{
+  text-align:center;
+}
+
+div.container {
+    position: relative;
+    margin:auto;
+}
+
+
+div.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration-color: black
+}
+div.center:hover{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+a.url:link{
+  color: #000000 ;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.url:visited{
+  color: #000000;
+  font-weight: bold;
+  text-decoration-color: black;
+}
+
+div.fb-page{
+  height: 20px;
+
+}
+
+div.align-menu{
+  margin:auto;
+}
+
+@media only screen and (max-width: 800px) {
+div.mainmenu{
+    display:none;
+}
+
+}
+
+@media only screen and (min-width: 799px) {
+div.mainmenu{
+    display:none;
+}
+
+}
