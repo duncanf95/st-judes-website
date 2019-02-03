@@ -22,21 +22,21 @@ This site was unfortunately never used due to change in management
 The home page makes the booking fuction front and centre to allow customers to easily locate it. The social media feeds are are also featured as well as links to themin the footer.
 
 ## Booking
-![booking](screenshots/booking.png)
+![booking](screenshots/booking.PNG)
 
 as well as a regular booking page, a booking input was added to the information pages as well. All of the information for these pages could be edited from the wordpress back end.
 
 ## Menu
-![menu](screenshots/Menu.png)
+![menu](screenshots/Menu.PNG)
 
 I also redid the menu to add pictures of the food, this was a request from the marketing manager to entice customers with pictures of the food.
 
 ## Wordpress
-![wordpres](screenshots/wordpress.png)
+![wordpres](screenshots/wordpress.PNG)
 
 To allow the manager more control over site information and pictures I used Wordpress backend to retrieve posts and pictures. This allowed the manager and easy gui to use to update information on the site.
 
 ## Admin View
-![admin view](screenshots/admin-view.png)
+![admin view](screenshots/admin-view.PNG)
 
 I also added a page for the marketing manager to view bookings, delete and confirm them. They could also get the email of the people that booked and arrange further details with them.
