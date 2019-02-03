@@ -32,7 +32,7 @@ as well as a regular booking page, a booking input was added to the information 
 I also redid the menu to add pictures of the food, this was a request from the marketing manager to entice customers with pictures of the food.
 
 ## Wordpress
-![wordpres](screenshots/wordpress.PNG)
+![wordpress](screenshots/Wordpress.PNG)
 
 To allow the manager more control over site information and pictures I used Wordpress backend to retrieve posts and pictures. This allowed the manager and easy gui to use to update information on the site.
 
