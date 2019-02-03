@@ -17,7 +17,7 @@ This site was unfortunately never used due to change in management
 
 ## Homepage
 
-![homepage] (screenshots/homepage.png)
+![homepage](screenshots/homepage.PNG)
   
 The home page makes the booking fuction front and centre to allow customers to easily locate it. The social media feeds are are also featured as well as links to themin the footer.
 
